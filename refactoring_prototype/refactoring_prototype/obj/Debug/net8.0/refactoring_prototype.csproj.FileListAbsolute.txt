@@ -1,0 +1,14 @@
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/bin/Debug/net8.0/refactoring_prototype
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/bin/Debug/net8.0/refactoring_prototype.deps.json
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/bin/Debug/net8.0/refactoring_prototype.runtimeconfig.json
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/bin/Debug/net8.0/refactoring_prototype.dll
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/bin/Debug/net8.0/refactoring_prototype.pdb
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.AssemblyInfoInputs.cache
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.AssemblyInfo.cs
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.csproj.CoreCompileInputs.cache
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.dll
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refint/refactoring_prototype.dll
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.pdb
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/refactoring_prototype.genruntimeconfig.cache
+/home/v01d/Desktop/clx/gitclones/refactoring_prototype/refactoring_prototype/obj/Debug/net8.0/ref/refactoring_prototype.dll
